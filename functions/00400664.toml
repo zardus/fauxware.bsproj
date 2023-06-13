@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x400664
 size = 0x89
-last_change = 2023-06-13T12:06:12.757549Z
+last_change = 2023-06-13T12:06:14.620253Z
+
+[header]
+last_change = 2023-06-13T12:06:14.620253Z
+name = "interesting_function"
+addr = 0x400664
