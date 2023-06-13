@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x40071d
+size = 0xb8
+last_change = 2023-06-13T10:49:06.477992Z
+
+[header]
+name = "gpt_new_main"
+addr = 0x40071d

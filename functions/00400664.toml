@@ -4,5 +4,5 @@ size = 0x89
 last_change = 2023-06-13T10:47:36.752879Z
 
 [header]
-name = ""
+name = "gpt_check_credentials"
 addr = 0x400664
