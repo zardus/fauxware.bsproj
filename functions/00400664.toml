@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x400664
 size = 0x89
+
+[header]
+name = "interesting_function"
+addr = 0x400664
